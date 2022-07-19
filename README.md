@@ -1,4 +1,4 @@
-"# GPON-Network-Visualization" 
+# GPON-Network-Visualization
 
 This is a compendium of some of the most interesting (according to my experience) visualizations for GPON networks (and telecommunications KPI in general).
 
