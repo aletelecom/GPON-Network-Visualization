@@ -35,7 +35,7 @@ The Average Client Speed Bubble Plot is a visualization that shows the average c
 The Optical Receiving Power Histograms and Scatter Plot is a compound visualization that helps you see the relationship between the optical receiving power at the ONT (Optical Network Terminal) and the distance to said ONT. This visualization consists of two histograms and a scatter plot, and can help identify areas of the network where clients may be experiencing poor signal quality.
 
 
-![Scatterplot](/Visualization-4/Viz-4.png)
+![Scatterplot](/Visualization-4/Viz_4.png)
 
 
 # 5. Sankey plot for OLT and ODF interconnection
@@ -44,7 +44,7 @@ The Optical Receiving Power Histograms and Scatter Plot is a compound visualizat
 The Sankey plot in this visualization will help you grasp how "messy" is the interconnection between the OLT and the ODF that will connect it to the outside plant FTTx network. On the left side you will have all your OLTs (you can filter by Central Office) and all the ODF that make the aforementioned interconnection.
 
 
-![Sankey](/Visualization-4/OC-1-Sankey.png)
+![Sankey](/Visualization-5/OC-1-Sankey.png)
 
 
 
